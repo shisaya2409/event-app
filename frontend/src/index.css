@@ -1,0 +1,13 @@
+/* frontend/src/index.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+nav a {
+  text-decoration: none;
+  padding: 8px;
+  color: blue;
+}
+nav a:hover {
+  text-decoration: underline;
+}
